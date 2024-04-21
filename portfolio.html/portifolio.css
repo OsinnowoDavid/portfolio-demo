@@ -1,0 +1,116 @@
+h1{
+  font-size:80px;
+  font-family:Algerian;
+  color: rgb(82, 82, 214) ;
+    text-align: center;
+    text-shadow: 5px black;
+    margin: 40px;
+   animation: my-move 4s ease-in-out calc();
+}
+h2 { font-size: 50px;
+    font-family:Engravers MT;
+   color: rgb(194, 110, 55);
+  box-shadow: 0px 2px 10px black;
+  text-shadow: 1px 1px 2.5px black;
+  border-radius: solid 50px;
+   
+}
+h3 img{
+    border-radius: 50px;
+    box-shadow: 0px 2px 10px black;
+}
+h4{
+    font-size: 50px;
+  color:aliceblue ;
+    border: solid  rgb(255, 81, 0) ;
+    border-radius:100px;
+    margin-left: 900px;
+    margin-right: 900px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+ text-decoration: solid;
+ background-color: black;
+ padding: 10px;
+
+
+
+}
+header{
+    text-align: center;
+
+
+
+}
+body{
+    background-image:url(./image/wallpapper.JPG);
+  
+    background-repeat: no-repeat;
+    text-align: center;
+ background-size: cover;
+justify-content: center;
+width: 100%;
+margin: bold;
+top: 200px;
+}
+   
+
+div{
+ 
+    text-decoration-color: srgb(10, 10, 10);
+    font-size:120px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    list-style: none;
+    color:black;
+    margin: 20px auto;
+    border: solid  rgb(255, 81, 0) ;
+    border-radius: 100px;
+    margin-left: 900px ;
+    margin-right: 900px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+ text-decoration: solid;
+ background-color: rgb(109, 96, 231);
+}
+main{
+    text-align: center;
+    justify-content: center;
+margin: 20px;
+position: relative;
+
+
+}
+li{
+    font-size: 50px;
+    color:aliceblue ;
+      border: solid  rgb(255, 81, 0) ;
+      border-radius:100px;
+      margin-left: 900px ;
+      margin-right: 900px;
+      margin-bottom: 50px;
+      margin-top: 50px;
+   text-decoration: solid;
+   background-color: black;
+   padding: 10px;
+   list-style: none;
+  
+}
+
+footer{
+    font-size: 30PX;
+    text-align: left;
+    color:white;
+}
+a{ color: rgb(207, 97, 24); text-decoration: none;}
+a:hover{text-decoration: underline;color: white;
+} 
+#myh1{
+    animation: mymove ;
+}
+
+#resume{
+    color: rgb(99, 99, 235);
+}
+
+@media screen and  { max-width :414px; 
+    
+}
